@@ -12,9 +12,11 @@ package scratchpapaer;
 public class ScratchPapaer {
 
     /**
-     * @param args the command line arguments
+     * This function takes three parameters,  
+     * it finds the smallest and the largest numbers
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
     int a = 63;
     int b = 74;
     int c = 1;
